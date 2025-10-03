@@ -106,7 +106,7 @@ BUSINESSES = {
             'Location & Hours':
                 "📍 *Location & Hours*\n\n"
                 "International Karate Center — Al Maabelah, Muscat\n"
-                ""(Search 'International Karate Center Al Maabelah' on Google Maps)\n\n"
+                "(Search 'International Karate Center Al Maabelah' on Google Maps)\n\n"
                 "Hours: Typically evenings & weekends for classes — contact for exact times.",
 
             'Fees & Membership':
